@@ -13,7 +13,3 @@ A simple Python GUI application to manage tasks with priorities.
 2. Open a terminal and run:
 
 python gui.py
-
-![Screenshot of Mini Task Manager](Mini Task Manager.png)
-
-
