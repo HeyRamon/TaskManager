@@ -1,3 +1,5 @@
+![MiniTaskManager Screenshot](MiniTaskManager.png)
+
 # Mini Task Manager
 
 A simple Python GUI application to manage tasks with priorities.
