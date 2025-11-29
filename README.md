@@ -14,4 +14,5 @@ A simple Python GUI application to manage tasks with priorities.
 
 python gui.py
 
-![Mini Task Manager.png] (screenshot.png)
+![Screenshot of the Mini Task Manager](Mini Task Manager.png)
+
