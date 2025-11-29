@@ -6,7 +6,7 @@ A simple Python GUI application to manage tasks with priorities.
 
 ## Features
 - Add tasks with a description and priority (1-5)
-- Pop the highest priority task
+- Pop the lowest priority task
 - View tasks in priority order
 - Interactive GUI with Tkinter
 
@@ -15,3 +15,4 @@ A simple Python GUI application to manage tasks with priorities.
 2. Open a terminal and run:
 
 python gui.py
+
